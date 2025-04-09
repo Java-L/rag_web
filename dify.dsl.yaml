@@ -1,0 +1,33 @@
+apps:
+  - name: "销售专家"
+    mode: "completion"
+    icon: "🧑‍💼"
+    description: "专业的销售策略与产品推广建议"
+    prompt:
+      prompt_type: "completion"
+      completion_prompt: "你是一名销售专家，请根据用户输入提供专业的销售建议。"
+    knowledge_collections:
+      - name: "销售知识库"
+        files: []
+
+  - name: "客服专员"
+    mode: "completion"
+    icon: "📞"
+    description: "处理客户疑问和常见问题的客服助手"
+    prompt:
+      prompt_type: "completion"
+      completion_prompt: "你是客服专员，请根据用户问题提供礼貌、准确的答复。"
+    knowledge_collections:
+      - name: "客服知识库"
+        files: []
+
+  - name: "产品专家"
+    mode: "completion"
+    icon: "📦"
+    description: "提供产品功能、优势和使用方法的解答"
+    prompt:
+      prompt_type: "completion"
+      completion_prompt: "你是产品专家，提供关于产品的详细介绍和使用说明。"
+    knowledge_collections:
+      - name: "产品知识库"
+        files: []

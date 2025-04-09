@@ -1,0 +1,20 @@
+{
+  "title": "Multi-Agent Chat",
+  "selectLanguage": "Select Language",
+  "selectRole": "Select Your Role",
+  "roles": {
+    "sales": "Sales Expert",
+    "customerService": "Customer Service",
+    "product": "Product Expert"
+  },
+  "chat": {
+    "placeholder": "Type your message here...",
+    "send": "Send",
+    "thinking": "Thinking..."
+  },
+  "languages": {
+    "en": "English",
+    "zh": "Chinese",
+    "th": "Thai"
+  }
+} 

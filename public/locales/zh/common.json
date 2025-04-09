@@ -1,0 +1,20 @@
+{
+  "title": "多智能体聊天",
+  "selectLanguage": "选择语言",
+  "selectRole": "选择您的角色",
+  "roles": {
+    "sales": "销售专家",
+    "customerService": "客服专员",
+    "product": "产品专家"
+  },
+  "chat": {
+    "placeholder": "在此输入您的消息...",
+    "send": "发送",
+    "thinking": "思考中..."
+  },
+  "languages": {
+    "en": "英语",
+    "zh": "中文",
+    "th": "泰语"
+  }
+} 
